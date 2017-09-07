@@ -1,55 +1,55 @@
 export {
   default as withGoogleMap,
-} from "../withGoogleMap";
+} from "./components/withGoogleMap";
 
 export {
   default as GoogleMap,
-} from "../GoogleMap";
+} from "./components/GoogleMap";
 
 export {
   default as Marker,
-} from "../Marker";
+} from "./components/Marker";
 
 export {
   default as Rectangle,
-} from "../Rectangle";
+} from "./components/Rectangle";
 
 export {
   default as Polyline,
-} from "../Polyline";
+} from "./components/Polyline";
 
 export {
   default as Polygon,
-} from "../Polygon";
+} from "./components/Polygon";
 
 export {
   default as Circle,
-} from "../Circle";
+} from "./components/Circle";
 
 export {
   default as KmlLayer,
-} from "../KmlLayer";
+} from "./components/KmlLayer";
 
 export {
   default as FusionTablesLayer,
-} from "../FusionTablesLayer";
+} from "./components/FusionTablesLayer";
 
 export {
   default as TrafficLayer,
-} from "../TrafficLayer";
+} from "./components/TrafficLayer";
 
 export {
   default as DirectionsRenderer,
-} from "../DirectionsRenderer";
+} from "./components/DirectionsRenderer";
 
 export {
   default as InfoWindow,
-} from "../InfoWindow";
+} from "./components/InfoWindow";
 
 export {
   default as OverlayView,
-} from "../OverlayView";
+} from "./components/OverlayView";
 
 export {
   default as StreetViewPanorama,
-} from "../StreetViewPanorama";
+} from "./components/StreetViewPanorama";
